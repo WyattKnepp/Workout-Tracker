@@ -1,3 +1,6 @@
 node_modules
 dist
 data
+# test-report (generated)
+test-report.testreport
+.test-results.xml
